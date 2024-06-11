@@ -1,0 +1,65 @@
+Reef,Scenario,RateChange,Model,IPCC,Difference,Time
+LHI,fut_1.5C,-9.62,Aus-only,CMIP3,NA,NA
+LHI,fut_2C,-24.5,Aus-only,CMIP3,NA,NA
+Ning,fut_1.5C,-12.98,Aus-only,CMIP3,NA,NA
+Ning,fut_2C,-28.1,Aus-only,CMIP3,NA,NA
+Shark,fut_1.5C,-14.1,Aus-only,CMIP3,NA,NA
+Shark,fut_2C,-28.1,Aus-only,CMIP3,NA,NA
+GBR,fut_1.5C,-11.86,Aus-only,CMIP3,NA,NA
+GBR,fut_2C,-31.7,Aus-only,CMIP3,NA,NA
+LHI,fut_1.5C,-5.78,Aus-only,CMIP6,NA,Before
+LHI,fut_2C,-15.86,Aus-only,CMIP6,NA,Before
+Ning,fut_1.5C,-7.22,Aus-only,CMIP6,NA,Before
+Ning,fut_2C,-18.02,Aus-only,CMIP6,NA,Before
+Shark,fut_1.5C,-7.7,Aus-only,CMIP6,NA,Before
+Shark,fut_2C,-18.02,Aus-only,CMIP6,NA,Before
+GBR,fut_1.5C,-6.74,Aus-only,CMIP6,NA,Before
+GBR,fut_2C,-20.18,Aus-only,CMIP6,NA,Before
+LHI,fut_1.5C,-5.744,All Central Indo-Pacific,CMIP6,-0.036,After
+LHI,fut_2C,-18.848,All Central Indo-Pacific,CMIP6,2.988,After
+Ning,fut_1.5C,-7.616,All Central Indo-Pacific,CMIP6,0.396,After
+Ning,fut_2C,-21.656,All Central Indo-Pacific,CMIP6,3.636,After
+Shark,fut_1.5C,-8.24,All Central Indo-Pacific,CMIP6,0.54,After
+Shark,fut_2C,-21.656,All Central Indo-Pacific,CMIP6,3.636,After
+GBR,fut_1.5C,-6.992,All Central Indo-Pacific,CMIP6,0.252,After
+GBR,fut_2C,-24.464,All Central Indo-Pacific,CMIP6,4.284,After
+LHI,fut_1.5C,-19.6,AllReefs,CMIP6,13.856,After
+LHI,fut_2C,-70,AllReefs,CMIP6,51.152,After
+Ning,fut_1.5C,-26.8,AllReefs,CMIP6,19.184,After
+Ning,fut_2C,-80.8,AllReefs,CMIP6,59.144,After
+Shark,fut_1.5C,-29.2,AllReefs,CMIP6,20.96,After
+Shark,fut_2C,-80.8,AllReefs,CMIP6,59.144,After
+GBR,fut_1.5C,-24.4,AllReefs,CMIP6,17.408,After
+GBR,fut_2C,-91.6,AllReefs,CMIP6,67.136,After
+LHI,fut_1.5C,-4.116,aus_bleaching.filt,CMIP6,-15.484,After
+LHI,fut_2C,-11.172,aus_bleaching.filt,CMIP6,-58.828,After
+Ning,fut_1.5C,-5.124,aus_bleaching.filt,CMIP6,-21.676,After
+Ning,fut_2C,-12.684,aus_bleaching.filt,CMIP6,-68.116,After
+Shark,fut_1.5C,-5.46,aus_bleaching.filt,CMIP6,-23.74,After
+Shark,fut_2C,-12.684,aus_bleaching.filt,CMIP6,-68.116,After
+GBR,fut_1.5C,-4.788,aus_bleaching.filt,CMIP6,-19.612,After
+GBR,fut_2C,-14.196,aus_bleaching.filt,CMIP6,-77.404,After
+LHI,fut_1.5C,-4.8,Zero_to_ten_bleaching.filt,CMIP6,0.684,After
+LHI,fut_2C,-17.4,Zero_to_ten_bleaching.filt,CMIP6,6.228,After
+Ning,fut_1.5C,-6.6,Zero_to_ten_bleaching.filt,CMIP6,1.476,After
+Ning,fut_2C,-20.1,Zero_to_ten_bleaching.filt,CMIP6,7.416,After
+Shark,fut_1.5C,-7.2,Zero_to_ten_bleaching.filt,CMIP6,1.74,After
+Shark,fut_2C,-20.1,Zero_to_ten_bleaching.filt,CMIP6,7.416,After
+GBR,fut_1.5C,-6,Zero_to_ten_bleaching.filt,CMIP6,1.212,After
+GBR,fut_2C,-22.8,Zero_to_ten_bleaching.filt,CMIP6,8.604,After
+LHI,fut_1.5C,-8.972,neg10_to_neg20_bleaching.filt,CMIP6,4.172,After
+LHI,fut_2C,-28.124,neg10_to_neg20_bleaching.filt,CMIP6,10.724,After
+Ning,fut_1.5C,-11.708,neg10_to_neg20_bleaching.filt,CMIP6,5.108,After
+Ning,fut_2C,-32.228,neg10_to_neg20_bleaching.filt,CMIP6,12.128,After
+Shark,fut_1.5C,-12.62,neg10_to_neg20_bleaching.filt,CMIP6,5.42,After
+Shark,fut_2C,-32.228,neg10_to_neg20_bleaching.filt,CMIP6,12.128,After
+GBR,fut_1.5C,-10.796,neg10_to_neg20_bleaching.filt,CMIP6,4.796,After
+GBR,fut_2C,-36.332,neg10_to_neg20_bleaching.filt,CMIP6,13.532,After
+LHI,fut_1.5C,-8.884,neg30_to_neg40_bleaching.filt,CMIP6,-0.088,After
+LHI,fut_2C,-27.028,neg30_to_neg40_bleaching.filt,CMIP6,-1.096,After
+Ning,fut_1.5C,-11.476,neg30_to_neg40_bleaching.filt,CMIP6,-0.232,After
+Ning,fut_2C,-30.916,neg30_to_neg40_bleaching.filt,CMIP6,-1.312,After
+Shark,fut_1.5C,-12.34,neg30_to_neg40_bleaching.filt,CMIP6,-0.28,After
+Shark,fut_2C,-30.916,neg30_to_neg40_bleaching.filt,CMIP6,-1.312,After
+GBR,fut_1.5C,-10.612,neg30_to_neg40_bleaching.filt,CMIP6,-0.184,After
+GBR,fut_2C,-34.804,neg30_to_neg40_bleaching.filt,CMIP6,-1.528,After
